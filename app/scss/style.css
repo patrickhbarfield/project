@@ -3,6 +3,10 @@ html {
   box-sizing: border-box;
 }
 
+.title{
+text-align: center;
+}
+
 *, *::before, *::after {
   box-sizing: inherit;
 }
